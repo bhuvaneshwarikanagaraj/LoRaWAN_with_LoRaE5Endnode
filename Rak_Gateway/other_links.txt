@@ -1,0 +1,7 @@
+Getting started to gateway
+
+https://docs.rakwireless.com/Product-Categories/WisLink/RAK2245-Pi-HAT/Quickstart/#accessing-your-gateway
+
+Firmware link
+
+https://docs.rakwireless.com/Product-Categories/WisLink/RAK2245-Pi-HAT/Datasheet/#software
